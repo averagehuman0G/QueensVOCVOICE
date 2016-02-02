@@ -4,6 +4,7 @@ body {
 
 .mainHeadings{
     text-align:center;
+    font-family: 'News Cycle', sans-serif;
 }
 
 .ArticleList{
@@ -15,3 +16,19 @@ body {
 .years{
     text-align:center;
 }
+
+footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
+
+.carousel-inner > .item > img{
+       width:1200px;
+       height:500px;
+     }
+
